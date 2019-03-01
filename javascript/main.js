@@ -13,14 +13,14 @@ var foco = null;
 
 var imagens = [];
 
-function preload(){
+/*function preload(){
     imagem1 = loadImage("imagens/1.png");
     imagem2 = loadImage("imagens/2.png");
     imagem3 = loadImage("imagens/3.png")
     imagens.push(imagem1);
     imagens.push(imagem2);
     imagens.push(imagem3);
-}
+}*/
 
 function setup(){
     tela = createCanvas(windowWidth, windowHeight);
